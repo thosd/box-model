@@ -8,29 +8,41 @@ body {
 }
 
 .box-sm {
-
+  position: relative;
+  padding: 80px;
+  background-color: lightblue;
 }
 
 .box-md {
+  position: relative;
+  padding: 50px;
+  background-color: red;
 
 }
 
-.box-lg{
-
+.box-lg {
+  width: 500px;
+  padding: 75px 150px;
+  position: relative;
+  margin: 100px auto;
+  background-color: yellow;
 }
 
 .border{
-
+border: 10px solid black;
 }
 
+
 #yellow {
+
 
 }
 
 #red {
 
+
 }
 
-#lightblue{
+#blue {
 
 }
